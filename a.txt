@@ -2,3 +2,5 @@ init
 m1
 m2
 m3
+b1--init
+b1-m1
